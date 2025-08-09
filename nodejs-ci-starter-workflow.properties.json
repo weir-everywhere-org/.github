@@ -1,0 +1,7 @@
+{
+    "name": "Weir Everywhere Demo Organization NodeJS CI",
+    "description": "Why Hells Bells its' a NodeJS Init CI starter workflow.",
+    "categories": [
+        "NPM Config"
+    ]
+  }
